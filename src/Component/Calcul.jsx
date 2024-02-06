@@ -3,7 +3,7 @@ import "./calCul.css"
 
 class Calcul extends Component {
   state = {
-    count: 1,
+    count: 3,
   };
 
   handledadd = () => {
