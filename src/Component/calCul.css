@@ -1,0 +1,16 @@
+.main{
+    background-color: aqua;
+   height: 1200px;
+   width: 500px;
+   margin-left: 450px;
+}
+.sub{
+    background-color: grey;
+    width:auto;
+    padding-top:250px;
+    padding-left: 150px;
+}
+.butt{
+    margin-left: 100px;
+
+}
